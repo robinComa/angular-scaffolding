@@ -1,0 +1,6 @@
+{
+    "firstName": "FirstName2",
+    "lastName": "LastName2",
+    "rights": ["VIEW_OBJ", "CREATE_OBJ", "DELETE_OBJ"],
+    "roles": ["ROLE2"]
+}

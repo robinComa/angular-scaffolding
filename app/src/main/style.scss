@@ -1,0 +1,13 @@
+@import "main";
+@import "fix-chameleon";
+@import "animation";
+
+// Modules
+@import "../modules/app-dialog/style";
+@import "../modules/app-notification/style";
+
+// Content
+div.container {
+  @import "application/content/home/style";
+  @import "application/content/state1/style";
+}

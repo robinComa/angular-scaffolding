@@ -1,0 +1,33 @@
+h2, h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #428bca;
+}
+
+h2 {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+h3 {
+  border-color: rgb(220, 220, 220);
+  padding-bottom: 2px;
+  padding-left: 2px;
+  font-size: 16px;
+  word-wrap: break-word;
+}
+
+div.panel-form h4 {
+  @extend h3;
+  font-size: 13px;
+}
+
+.panel-group .panel-form .panel-heading a:before {
+  position: relative;
+  margin-left: -20px;
+}
+
+div.panel-body p {
+  padding-top: 7px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,35 @@
+{
+  "name": "myApp",
+  "version": "0.0.1",
+  "private": true,
+  "authors": [
+    "Robin Coma Delperier <rcomadelperier@sqli.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robinComa/angular-scaffolding.git"
+  },
+  "description": "Angular scaffolding project",
+  "dependencies": {
+    "modernizr": "2.8.1",
+    "json3": "3.3.1",
+    "es5-shim": "3.1.0",
+    "respond": "1.4.2",
+    "bootstrap": "3.1.1",
+    "angular": "1.2.21",
+    "angular-strap": "2.0.4",
+    "angular-resource": "1.2.21",
+    "angular-mocks": "1.2.21",
+    "angular-ui-router": "0.2.10",
+    "angular-translate": "2.0.0",
+    "angular-translate-loader-static-files": "2.0.0",
+    "angular-translate-loader-url": "2.0.0",
+    "angular-translate-loader-partial": "2.0.0",
+    "angular-sanitize": "1.2.21",
+    "angular-animate": "1.2.21",
+    "animate.css": "3.1.0",
+    "angular-ui-tinymce": "0.0.5",
+    "angular-loading-bar": "0.4.3"
+  },
+  "devDependencies": {}
+}

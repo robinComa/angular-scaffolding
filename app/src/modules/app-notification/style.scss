@@ -1,0 +1,10 @@
+div#app-notification{
+    position: absolute;
+    top: 10px;
+    z-index: 99999999;
+    display: inline;
+
+    > div.alert{
+      margin: 0px;
+    }
+}
