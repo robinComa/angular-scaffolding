@@ -1,6 +1,6 @@
 # Front-end
 
-myApp - Airbus Helicopters project.
+myApp - AngularJS project.
 
 ## Environment
 
