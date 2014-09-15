@@ -41,6 +41,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@gitlab-toulouse.sqli.com:eurocopter/myApp.git"
+        "url": "git@github.com:robinComa/angular-scaffolding.git"
     }
 }
